@@ -27,3 +27,9 @@ The “Next” button allows the user to move to the next question. The applicat
 The entire project is developed in a basic and beginner-friendly way with separate HTML, CSS, and JavaScript files. This separation of files helps in better understanding the role of each technology and follows good coding practices.
 
 Through this task, I learned important concepts such as JavaScript arrays, functions, conditional statements, event handling, and DOM manipulation. This project helped me improve my logical thinking and practical understanding of how interactive web applications are built using JavaScript.##
+
+
+OUTPUT :
+<img width="751" height="738" alt="Image" src="https://github.com/user-attachments/assets/d9609351-6e6c-4f2e-9277-b717c2ea194d" />
+
+
